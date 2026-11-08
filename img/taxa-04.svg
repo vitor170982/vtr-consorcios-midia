@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect width="1080" height="1350" fill="#F6F3EC"/>
+<rect x="0" y="0" width="1080" height="8" fill="#C9A34C"/>
+<text x="72" y="132" font-family="Helvetica,Arial,sans-serif" font-size="28" font-weight="bold" fill="#AA5A16" letter-spacing="3">A DIFERENÇA</text>
+<text x="72" y="220" font-family="Helvetica,Arial,sans-serif" font-size="62" font-weight="bold" fill="#1A2433">Não é a mesma coisa que</text>
+<text x="72" y="292" font-family="Helvetica,Arial,sans-serif" font-size="62" font-weight="bold" fill="#1A2433">juros.</text>
+<rect x="72" y="380" width="120" height="5" fill="#C9A34C"/>
+<rect x="72" y="464" width="452" height="300" rx="10" fill="#FFFFFF" stroke="#D9D0BC" stroke-width="2"/>
+<text x="104" y="520" font-family="Helvetica,Arial,sans-serif" font-size="30" font-weight="bold" fill="#AA5A16">JUROS</text>
+<text x="104" y="576" font-family="Helvetica,Arial,sans-serif" font-size="30" fill="#3A4553">Preço do dinheiro</text>
+<text x="104" y="616" font-family="Helvetica,Arial,sans-serif" font-size="30" fill="#3A4553">emprestado. Incide sobre o</text>
+<text x="104" y="656" font-family="Helvetica,Arial,sans-serif" font-size="30" fill="#3A4553">saldo devedor e faz a</text>
+<text x="104" y="696" font-family="Helvetica,Arial,sans-serif" font-size="30" fill="#3A4553">dívida crescer com o</text>
+<text x="104" y="736" font-family="Helvetica,Arial,sans-serif" font-size="30" fill="#3A4553">tempo.</text>
+<rect x="556" y="464" width="452" height="300" rx="10" fill="#FFFFFF" stroke="#C9A34C" stroke-width="3"/>
+<text x="588" y="520" font-family="Helvetica,Arial,sans-serif" font-size="30" font-weight="bold" fill="#AA5A16">TAXA</text>
+<text x="588" y="576" font-family="Helvetica,Arial,sans-serif" font-size="30" fill="#3A4553">Preço de um serviço. É</text>
+<text x="588" y="616" font-family="Helvetica,Arial,sans-serif" font-size="30" fill="#3A4553">definida em contrato e</text>
+<text x="588" y="656" font-family="Helvetica,Arial,sans-serif" font-size="30" fill="#3A4553">diluída nas parcelas. Não</text>
+<text x="588" y="696" font-family="Helvetica,Arial,sans-serif" font-size="30" fill="#3A4553">cresce sobre si mesma.</text>
+<rect x="72" y="814" width="6" height="6" fill="#C9A34C"/>
+<text x="94" y="838" font-family="Helvetica,Arial,sans-serif" font-size="33" font-weight="bold" fill="#AA5A16">Chamar consórcio de 'sem juros' está certo.</text>
+<text x="94" y="882" font-family="Helvetica,Arial,sans-serif" font-size="33" font-weight="bold" fill="#AA5A16">Dizer que ele sai de graça, não está.</text>
+<text x="72" y="1268" font-family="Helvetica,Arial,sans-serif" font-size="26" font-weight="bold" fill="#696960" opacity="0.75">VTR CONSÓRCIOS</text>
+<text x="1008" y="1268" font-family="Helvetica,Arial,sans-serif" font-size="26" font-weight="bold" fill="#696960" opacity="0.75" text-anchor="end">4/8</text>
+</svg>
