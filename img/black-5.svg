@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect width="1080" height="1350" fill="#F6F3EC"/>
+<rect x="0" y="0" width="1080" height="12" fill="#B3202A"/>
+<rect x="0" y="12" width="1080" height="5" fill="#C9A34C"/>
+<text x="72" y="140" font-family="Helvetica,Arial,sans-serif" font-size="27" font-weight="bold" fill="#AA5A16" letter-spacing="3">SERVE PARA OS TRÊS OBJETIVOS</text>
+<text x="72" y="250" font-family="Helvetica,Arial,sans-serif" font-size="68" font-weight="bold" fill="#1A2433">Casa, carro</text>
+<text x="72" y="332" font-family="Helvetica,Arial,sans-serif" font-size="68" font-weight="bold" fill="#1A2433">ou patrimônio.</text>
+<rect x="72" y="424" width="120" height="5" fill="#C9A34C"/>
+<circle cx="88" cy="510" r="8" fill="#C9A34C"/>
+<text x="120" y="524" font-family="Helvetica,Arial,sans-serif" font-size="40" font-weight="bold" fill="#1A2433">Casa própria</text>
+<text x="120" y="574" font-family="Helvetica,Arial,sans-serif" font-size="30" fill="#3A4553">Crédito para comprar, construir ou reformar</text>
+<text x="120" y="614" font-family="Helvetica,Arial,sans-serif" font-size="30" fill="#3A4553">imóvel no Brasil.</text>
+<circle cx="88" cy="680" r="8" fill="#C9A34C"/>
+<text x="120" y="694" font-family="Helvetica,Arial,sans-serif" font-size="40" font-weight="bold" fill="#1A2433">Seu carro</text>
+<text x="120" y="744" font-family="Helvetica,Arial,sans-serif" font-size="30" fill="#3A4553">Automóvel, moto ou utilitário — sem</text>
+<text x="120" y="784" font-family="Helvetica,Arial,sans-serif" font-size="30" fill="#3A4553">financiamento e sem juros.</text>
+<circle cx="88" cy="850" r="8" fill="#C9A34C"/>
+<text x="120" y="864" font-family="Helvetica,Arial,sans-serif" font-size="40" font-weight="bold" fill="#1A2433">Investimento e patrimônio</text>
+<text x="120" y="914" font-family="Helvetica,Arial,sans-serif" font-size="30" fill="#3A4553">Compre o imóvel que gera renda e pague a</text>
+<text x="120" y="954" font-family="Helvetica,Arial,sans-serif" font-size="30" fill="#3A4553">parcela com o aluguel.</text>
+<text x="72" y="1272" font-family="Helvetica,Arial,sans-serif" font-size="24" font-weight="bold" fill="#696960" opacity="0.72">VTR CONSÓRCIOS</text>
+<text x="1008" y="1272" font-family="Helvetica,Arial,sans-serif" font-size="24" font-weight="bold" fill="#696960" opacity="0.72" text-anchor="end">5/7</text>
+</svg>
