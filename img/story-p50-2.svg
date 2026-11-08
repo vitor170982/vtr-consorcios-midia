@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#F6F3EC"/>
+<rect x="0" y="0" width="1080" height="10" fill="#C9A34C"/>
+<text x="80" y="300" font-family="Helvetica,Arial,sans-serif" font-size="34" font-weight="bold" fill="#AA5A16" letter-spacing="4">A CONTA</text>
+<text x="80" y="410" font-family="Helvetica,Arial,sans-serif" font-size="72" font-weight="bold" fill="#1A2433">Crédito de R$ 100 mil</text>
+<text x="80" y="486" font-family="Helvetica,Arial,sans-serif" font-size="40" fill="#6B7482">prazo 219 meses · taxa 24%</text>
+<rect x="80" y="530" width="180" height="7" fill="#C9A34C"/>
+<rect x="80" y="600" width="920" height="240" rx="14" fill="#FFFFFF" stroke="#D9D0BC" stroke-width="2"/>
+<text x="120" y="680" font-family="Helvetica,Arial,sans-serif" font-size="34" fill="#6B7482">PARCELA CHEIA</text>
+<text x="120" y="790" font-family="Helvetica,Arial,sans-serif" font-size="96" font-weight="bold" fill="#1A2433">R$ 566,21</text>
+<rect x="80" y="880" width="920" height="300" rx="14" fill="#0C2C27"/>
+<text x="120" y="960" font-family="Helvetica,Arial,sans-serif" font-size="34" fill="#C9A34C" letter-spacing="3">NO PLANO 50</text>
+<text x="120" y="1080" font-family="Helvetica,Arial,sans-serif" font-size="110" font-weight="bold" fill="#FFFFFF">R$ 337,90</text>
+<text x="120" y="1140" font-family="Helvetica,Arial,sans-serif" font-size="30" fill="#D6D2C8">50% do fundo comum + as taxas cheias</text>
+<text x="80" y="1265" font-family="Helvetica,Arial,sans-serif" font-size="38" font-weight="bold" fill="#AA5A16">Diferença: R$ 228,31 por mês</text>
+<text x="80" y="1320" font-family="Helvetica,Arial,sans-serif" font-size="32" fill="#3A4553">Enquanto você não é contemplado, essa é a</text>
+<text x="80" y="1362" font-family="Helvetica,Arial,sans-serif" font-size="32" fill="#3A4553">parcela que sai do seu bolso.</text>
+<text x="80" y="1596" font-family="Helvetica,Arial,sans-serif" font-size="28" font-weight="bold" fill="#696960" opacity="0.75">VTR CONSÓRCIOS</text>
+</svg>
