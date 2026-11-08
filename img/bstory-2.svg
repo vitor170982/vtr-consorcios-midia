@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#F6F3EC"/>
+<rect x="0" y="0" width="1080" height="14" fill="#B3202A"/>
+<rect x="0" y="14" width="1080" height="6" fill="#C9A34C"/>
+<text x="80" y="330" font-family="Helvetica,Arial,sans-serif" font-size="32" font-weight="bold" fill="#B3202A" letter-spacing="3">TABELA OFICIAL</text>
+<text x="80" y="430" font-family="Helvetica,Arial,sans-serif" font-size="76" font-weight="bold" fill="#1A2433">A parcela fica</text>
+<text x="80" y="516" font-family="Helvetica,Arial,sans-serif" font-size="76" font-weight="bold" fill="#1A2433">em:</text>
+<rect x="80" y="560" width="160" height="7" fill="#C9A34C"/>
+<rect x="80" y="640" width="920" height="128" rx="8" fill="#FFFFFF"/>
+<text x="116" y="692" font-family="Helvetica,Arial,sans-serif" font-size="34" fill="#6B7482">R$ 200 mil</text>
+<text x="116" y="744" font-family="Helvetica,Arial,sans-serif" font-size="54" font-weight="bold" fill="#AA5A16">R$ 583,64</text>
+<rect x="80" y="780" width="920" height="128" rx="8" fill="#EFEAD9"/>
+<text x="116" y="832" font-family="Helvetica,Arial,sans-serif" font-size="34" fill="#6B7482">R$ 300 mil</text>
+<text x="116" y="884" font-family="Helvetica,Arial,sans-serif" font-size="54" font-weight="bold" fill="#AA5A16">R$ 875,46</text>
+<rect x="80" y="920" width="920" height="128" rx="8" fill="#FFFFFF"/>
+<text x="116" y="972" font-family="Helvetica,Arial,sans-serif" font-size="34" fill="#6B7482">R$ 500 mil</text>
+<text x="116" y="1024" font-family="Helvetica,Arial,sans-serif" font-size="54" font-weight="bold" fill="#AA5A16">R$ 1.459,09</text>
+<rect x="80" y="1060" width="920" height="128" rx="8" fill="#EFEAD9"/>
+<text x="116" y="1112" font-family="Helvetica,Arial,sans-serif" font-size="34" fill="#6B7482">R$ 750 mil</text>
+<text x="116" y="1164" font-family="Helvetica,Arial,sans-serif" font-size="54" font-weight="bold" fill="#AA5A16">R$ 2.188,64</text>
+<rect x="80" y="1200" width="920" height="128" rx="8" fill="#FFFFFF"/>
+<text x="116" y="1252" font-family="Helvetica,Arial,sans-serif" font-size="34" fill="#6B7482">R$ 1 milhão</text>
+<text x="116" y="1304" font-family="Helvetica,Arial,sans-serif" font-size="54" font-weight="bold" fill="#AA5A16">R$ 2.918,18</text>
+<text x="80" y="1390" font-family="Helvetica,Arial,sans-serif" font-size="30" fill="#8B93A0">Parcela reduzida até a contemplação.</text>
+<text x="80" y="1580" font-family="Helvetica,Arial,sans-serif" font-size="28" font-weight="bold" fill="#696960" opacity="0.8">VTR CONSÓRCIOS</text>
+</svg>

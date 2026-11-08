@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#0C2C27"/>
+<rect x="0" y="0" width="1080" height="14" fill="#B3202A"/>
+<rect x="0" y="14" width="1080" height="6" fill="#C9A34C"/>
+<rect x="80" y="330" width="440" height="70" rx="35" fill="#B3202A"/>
+<text x="300" y="378" font-family="Helvetica,Arial,sans-serif" font-size="32" font-weight="bold" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">BLACK NOVEMBRO</text>
+<text x="80" y="540" font-family="Helvetica,Arial,sans-serif" font-size="118" font-weight="bold" fill="#FFFFFF">A parcela</text>
+<text x="80" y="672" font-family="Helvetica,Arial,sans-serif" font-size="118" font-weight="bold" fill="#FFFFFF">cai 60%</text>
+<rect x="80" y="804" width="230" height="9" fill="#C9A34C"/>
+<text x="80" y="904" font-family="Helvetica,Arial,sans-serif" font-size="56" font-weight="bold" fill="#C9A34C">até você ser</text>
+<text x="80" y="972" font-family="Helvetica,Arial,sans-serif" font-size="56" font-weight="bold" fill="#C9A34C">contemplado</text>
+<text x="80" y="1080" font-family="Helvetica,Arial,sans-serif" font-size="40" fill="#D6D2C8">Ação oficial da Ademicon, em</text>
+<text x="80" y="1134" font-family="Helvetica,Arial,sans-serif" font-size="40" fill="#D6D2C8">grupos específicos.</text>
+<text x="80" y="1580" font-family="Helvetica,Arial,sans-serif" font-size="28" font-weight="bold" fill="#969690" opacity="0.8">VTR CONSÓRCIOS</text>
+</svg>
