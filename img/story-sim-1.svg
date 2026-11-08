@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#0C2C27"/>
+<rect x="0" y="0" width="1080" height="10" fill="#C9A34C"/>
+<text x="80" y="330" font-family="Helvetica,Arial,sans-serif" font-size="36" font-weight="bold" fill="#C9A34C" letter-spacing="4">SIMULAÇÃO REAL</text>
+<text x="80" y="480" font-family="Helvetica,Arial,sans-serif" font-size="96" font-weight="bold" fill="#FFFFFF">Quanto fica</text>
+<text x="80" y="592" font-family="Helvetica,Arial,sans-serif" font-size="96" font-weight="bold" fill="#FFFFFF">a parcela de</text>
+<text x="80" y="704" font-family="Helvetica,Arial,sans-serif" font-size="96" font-weight="bold" fill="#FFFFFF">um imóvel de</text>
+<text x="80" y="880" font-family="Helvetica,Arial,sans-serif" font-size="150" font-weight="bold" fill="#C9A34C">R$ 300 mil</text>
+<rect x="80" y="936" width="230" height="8" fill="#C9A34C"/>
+<text x="80" y="1058" font-family="Helvetica,Arial,sans-serif" font-size="42" fill="#D6D2C8">Sem juros. Mas com taxa de</text>
+<text x="80" y="1116" font-family="Helvetica,Arial,sans-serif" font-size="42" fill="#D6D2C8">administração — e eu vou</text>
+<text x="80" y="1174" font-family="Helvetica,Arial,sans-serif" font-size="42" fill="#D6D2C8">mostrar as duas contas.</text>
+<text x="80" y="1560" font-family="Helvetica,Arial,sans-serif" font-size="30" font-weight="bold" fill="#969690" opacity="0.8">VTR CONSÓRCIOS</text>
+</svg>

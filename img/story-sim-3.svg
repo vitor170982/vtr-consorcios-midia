@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#F6F3EC"/>
+<rect x="0" y="0" width="1080" height="10" fill="#C9A34C"/>
+<text x="80" y="300" font-family="Helvetica,Arial,sans-serif" font-size="34" font-weight="bold" fill="#AA5A16" letter-spacing="4">O RESULTADO</text>
+<text x="80" y="410" font-family="Helvetica,Arial,sans-serif" font-size="76" font-weight="bold" fill="#1A2433">A parcela fica em</text>
+<rect x="80" y="452" width="180" height="7" fill="#C9A34C"/>
+<rect x="80" y="520" width="920" height="300" rx="14" fill="#0C2C27"/>
+<text x="120" y="620" font-family="Helvetica,Arial,sans-serif" font-size="40" fill="#C9A34C" letter-spacing="3">PARCELA MENSAL</text>
+<text x="120" y="760" font-family="Helvetica,Arial,sans-serif" font-size="130" font-weight="bold" fill="#FFFFFF">R$ 1.842</text>
+<text x="80" y="910" font-family="Helvetica,Arial,sans-serif" font-size="34" font-weight="bold" fill="#1A2433">De onde vem esse número</text>
+<text x="80" y="975" font-family="Helvetica,Arial,sans-serif" font-size="34" fill="#3A4553">Fundo comum</text>
+<text x="1000" y="975" font-family="Helvetica,Arial,sans-serif" font-size="34" font-weight="bold" fill="#1A2433" text-anchor="end">R$ 1.500</text>
+<text x="80" y="1011" font-family="Helvetica,Arial,sans-serif" font-size="24" fill="#8B93A0">300.000 ÷ 200 meses</text>
+<line x1="80" y1="1033" x2="1000" y2="1033" stroke="#D9D0BC" stroke-width="1"/>
+<text x="80" y="1075" font-family="Helvetica,Arial,sans-serif" font-size="34" fill="#3A4553">Taxa de adm. (20,8%)</text>
+<text x="1000" y="1075" font-family="Helvetica,Arial,sans-serif" font-size="34" font-weight="bold" fill="#1A2433" text-anchor="end">R$ 312</text>
+<text x="80" y="1111" font-family="Helvetica,Arial,sans-serif" font-size="24" fill="#8B93A0">62.400 ÷ 200 meses</text>
+<line x1="80" y1="1133" x2="1000" y2="1133" stroke="#D9D0BC" stroke-width="1"/>
+<text x="80" y="1175" font-family="Helvetica,Arial,sans-serif" font-size="34" fill="#3A4553">Fundo de reserva (2%)</text>
+<text x="1000" y="1175" font-family="Helvetica,Arial,sans-serif" font-size="34" font-weight="bold" fill="#1A2433" text-anchor="end">R$ 30</text>
+<text x="80" y="1211" font-family="Helvetica,Arial,sans-serif" font-size="24" fill="#8B93A0">6.000 ÷ 200 meses</text>
+<line x1="80" y1="1233" x2="1000" y2="1233" stroke="#D9D0BC" stroke-width="1"/>
+<text x="80" y="1290" font-family="Helvetica,Arial,sans-serif" font-size="36" font-weight="bold" fill="#1A2433">Total no fim: R$ 368.400</text>
+<text x="80" y="1334" font-family="Helvetica,Arial,sans-serif" font-size="26" fill="#6B7482">R$ 300.000 do bem + R$ 68.400 de taxas</text>
+<rect x="80" y="1470" width="8" height="100" fill="#C9A34C"/>
+<text x="112" y="1508" font-family="Helvetica,Arial,sans-serif" font-size="30" fill="#3A4553">Exemplo com premissas declaradas.</text>
+<text x="112" y="1548" font-family="Helvetica,Arial,sans-serif" font-size="30" fill="#3A4553">O seu número depende do plano.</text>
+<text x="80" y="1596" font-family="Helvetica,Arial,sans-serif" font-size="28" font-weight="bold" fill="#696960" opacity="0.75">VTR CONSÓRCIOS</text>
+</svg>

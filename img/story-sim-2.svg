@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#F6F3EC"/>
+<rect x="0" y="0" width="1080" height="10" fill="#C9A34C"/>
+<text x="80" y="300" font-family="Helvetica,Arial,sans-serif" font-size="34" font-weight="bold" fill="#AA5A16" letter-spacing="4">AS PREMISSAS</text>
+<text x="80" y="410" font-family="Helvetica,Arial,sans-serif" font-size="76" font-weight="bold" fill="#1A2433">O que estou usando</text>
+<text x="80" y="486" font-family="Helvetica,Arial,sans-serif" font-size="76" font-weight="bold" fill="#1A2433">nesta conta</text>
+<rect x="80" y="530" width="180" height="7" fill="#C9A34C"/>
+<text x="80" y="640" font-family="Helvetica,Arial,sans-serif" font-size="34" fill="#6B7482">Carta de crédito</text>
+<text x="80" y="696" font-family="Helvetica,Arial,sans-serif" font-size="52" font-weight="bold" fill="#1A2433">R$ 300.000</text>
+<text x="80" y="780" font-family="Helvetica,Arial,sans-serif" font-size="34" fill="#6B7482">Prazo</text>
+<text x="80" y="836" font-family="Helvetica,Arial,sans-serif" font-size="52" font-weight="bold" fill="#1A2433">200 meses (16 anos e 8 meses)</text>
+<text x="80" y="920" font-family="Helvetica,Arial,sans-serif" font-size="34" fill="#6B7482">Taxa de administração</text>
+<text x="80" y="976" font-family="Helvetica,Arial,sans-serif" font-size="52" font-weight="bold" fill="#1A2433">20,8% — média de imóveis no BC</text>
+<text x="80" y="1060" font-family="Helvetica,Arial,sans-serif" font-size="34" fill="#6B7482">Fundo de reserva</text>
+<text x="80" y="1116" font-family="Helvetica,Arial,sans-serif" font-size="52" font-weight="bold" fill="#1A2433">2%</text>
+<text x="80" y="1200" font-family="Helvetica,Arial,sans-serif" font-size="34" fill="#6B7482">Parcela inicial</text>
+<text x="80" y="1256" font-family="Helvetica,Arial,sans-serif" font-size="52" font-weight="bold" fill="#1A2433">sem lance, sem correção</text>
+<rect x="80" y="1440" width="8" height="120" fill="#C9A34C"/>
+<text x="112" y="1470" font-family="Helvetica,Arial,sans-serif" font-size="28" fill="#3A4553">Média oficial: Banco Central, grupos de</text>
+<text x="112" y="1508" font-family="Helvetica,Arial,sans-serif" font-size="28" fill="#3A4553">imóveis formados em 2024 (taxa 20,8%). Cada</text>
+<text x="112" y="1546" font-family="Helvetica,Arial,sans-serif" font-size="28" fill="#3A4553">administradora tem a sua.</text>
+<text x="80" y="1596" font-family="Helvetica,Arial,sans-serif" font-size="28" font-weight="bold" fill="#696960" opacity="0.75">VTR CONSÓRCIOS</text>
+</svg>
