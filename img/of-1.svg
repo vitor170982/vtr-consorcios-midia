@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#0C2C27"/>
+<rect x="0" y="0" width="1080" height="14" fill="#C9A34C"/>
+<text x="80" y="380" font-family="Helvetica,Arial,sans-serif" font-size="42" font-weight="bold" fill="#C9A34C" letter-spacing="6">PARCELA POR MÊS</text>
+<text x="70" y="760" font-family="Helvetica,Arial,sans-serif" font-size="290" font-weight="bold" fill="#FFFFFF">R$ 340</text>
+<rect x="80" y="840" width="340" height="12" fill="#C9A34C"/>
+<text x="80" y="1010" font-family="Helvetica,Arial,sans-serif" font-size="72" font-weight="bold" fill="#FFFFFF">Sem juros.</text>
+<text x="80" y="1102" font-family="Helvetica,Arial,sans-serif" font-size="72" font-weight="bold" fill="#FFFFFF">Sem entrada.</text>
+<text x="80" y="1620" font-family="Helvetica,Arial,sans-serif" font-size="26" font-weight="bold" fill="#969690" opacity="0.8">VTR CONSÓRCIOS</text>
+<text x="80" y="1660" font-family="Helvetica,Arial,sans-serif" font-size="22" fill="#7C8278">Parcela reduzida até a contemplação.</text>
+</svg>
