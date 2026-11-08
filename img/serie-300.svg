@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#0C2C27"/>
+<rect x="0" y="0" width="1080" height="14" fill="#C9A34C"/>
+<text x="80" y="400" font-family="Helvetica,Arial,sans-serif" font-size="40" font-weight="bold" fill="#C9A34C" letter-spacing="6">PARCELA POR MÊS</text>
+<text x="62" y="790" font-family="Helvetica,Arial,sans-serif" font-size="250" font-weight="bold" fill="#FFFFFF">R$ 1.062</text>
+<rect x="80" y="860" width="330" height="12" fill="#C9A34C"/>
+<text x="80" y="1030" font-family="Helvetica,Arial,sans-serif" font-size="56" font-weight="bold" fill="#FFFFFF">para crédito de</text>
+<text x="76" y="1210" font-family="Helvetica,Arial,sans-serif" font-size="130" font-weight="bold" fill="#C9A34C">R$ 300 mil</text>
+<text x="80" y="1330" font-family="Helvetica,Arial,sans-serif" font-size="42" fill="#D6D2C8">Sem juros · sem entrada</text>
+<text x="80" y="1400" font-family="Helvetica,Arial,sans-serif" font-size="42" fill="#D6D2C8">Imóvel no Brasil</text>
+<text x="80" y="1640" font-family="Helvetica,Arial,sans-serif" font-size="26" font-weight="bold" fill="#969690" opacity="0.8">VTR CONSÓRCIOS</text>
+<text x="80" y="1682" font-family="Helvetica,Arial,sans-serif" font-size="21" fill="#7C8278">Parcela reduzida até a contemplação · prazo 200 meses</text>
+</svg>
