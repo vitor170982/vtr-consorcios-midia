@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#0C2C27"/>
+<rect x="0" y="0" width="1080" height="14" fill="#C9A34C"/>
+<rect x="80" y="300" width="330" height="66" rx="33" fill="#C9A34C"/>
+<text x="245" y="345" font-family="Helvetica,Arial,sans-serif" font-size="30" font-weight="bold" fill="#0C2C27" text-anchor="middle" letter-spacing="2">QUIZ RÁPIDO</text>
+<text x="80" y="470" font-family="Helvetica,Arial,sans-serif" font-size="96" font-weight="bold" fill="#FFFFFF">R$ 300 mil,</text>
+<text x="80" y="582" font-family="Helvetica,Arial,sans-serif" font-size="96" font-weight="bold" fill="#FFFFFF">200 meses,</text>
+<text x="80" y="694" font-family="Helvetica,Arial,sans-serif" font-size="96" font-weight="bold" fill="#FFFFFF">parcela de</text>
+<text x="80" y="806" font-family="Helvetica,Arial,sans-serif" font-size="96" font-weight="bold" fill="#FFFFFF">R$ 875.</text>
+<rect x="80" y="938" width="230" height="9" fill="#C9A34C"/>
+<text x="80" y="1028" font-family="Helvetica,Arial,sans-serif" font-size="58" font-weight="bold" fill="#C9A34C">Dá para comprar uma casa</text>
+<text x="80" y="1100" font-family="Helvetica,Arial,sans-serif" font-size="58" font-weight="bold" fill="#C9A34C">no Brasil com isso?</text>
+<rect x="80" y="1212" width="920" height="120" rx="16" fill="#1A3B35" stroke="#C9A34C" stroke-width="3"/>
+<text x="120" y="1288" font-family="Helvetica,Arial,sans-serif" font-size="46" font-weight="bold" fill="#FFFFFF">A) Sim, dá</text>
+<rect x="80" y="1356" width="920" height="120" rx="16" fill="#1A3B35" stroke="#C9A34C" stroke-width="3"/>
+<text x="120" y="1432" font-family="Helvetica,Arial,sans-serif" font-size="46" font-weight="bold" fill="#FFFFFF">B) Não dá</text>
+<text x="80" y="1560" font-family="Helvetica,Arial,sans-serif" font-size="42" font-weight="bold" fill="#D6D2C8">Responde A ou B aqui no direct.</text>
+<text x="80" y="1690" font-family="Helvetica,Arial,sans-serif" font-size="26" font-weight="bold" fill="#969690" opacity="0.7">VTR CONSÓRCIOS</text>
+</svg>
