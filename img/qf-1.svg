@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+<rect width="1080" height="1350" fill="#0C2C27"/>
+<rect x="0" y="0" width="1080" height="12" fill="#C9A34C"/>
+<rect x="72" y="130" width="320" height="62" rx="31" fill="#C9A34C"/>
+<text x="232" y="172" font-family="Helvetica,Arial,sans-serif" font-size="28" font-weight="bold" fill="#0C2C27" text-anchor="middle" letter-spacing="2">TESTE RÁPIDO</text>
+<text x="72" y="290" font-family="Helvetica,Arial,sans-serif" font-size="78" font-weight="bold" fill="#FFFFFF">R$ 300 mil.</text>
+<text x="72" y="382" font-family="Helvetica,Arial,sans-serif" font-size="78" font-weight="bold" fill="#FFFFFF">200 meses.</text>
+<text x="72" y="474" font-family="Helvetica,Arial,sans-serif" font-size="78" font-weight="bold" fill="#FFFFFF">Parcela de R$ 875.</text>
+<rect x="72" y="578" width="200" height="7" fill="#C9A34C"/>
+<text x="72" y="666" font-family="Helvetica,Arial,sans-serif" font-size="58" font-weight="bold" fill="#C9A34C">Dá para comprar uma casa</text>
+<text x="72" y="738" font-family="Helvetica,Arial,sans-serif" font-size="58" font-weight="bold" fill="#C9A34C">no Brasil com isso?</text>
+<rect x="72" y="850" width="936" height="110" rx="14" fill="#1A3B35" stroke="#C9A34C" stroke-width="3"/>
+<text x="112" y="920" font-family="Helvetica,Arial,sans-serif" font-size="44" font-weight="bold" fill="#FFFFFF">A) Sim, dá</text>
+<rect x="72" y="978" width="936" height="110" rx="14" fill="#1A3B35" stroke="#C9A34C" stroke-width="3"/>
+<text x="112" y="1048" font-family="Helvetica,Arial,sans-serif" font-size="44" font-weight="bold" fill="#FFFFFF">B) Não dá</text>
+<text x="72" y="1138" font-family="Helvetica,Arial,sans-serif" font-size="38" font-weight="bold" fill="#D6D2C8">Responde A ou B nos comentários.</text>
+<text x="72" y="1278" font-family="Helvetica,Arial,sans-serif" font-size="24" font-weight="bold" fill="#696960" opacity="0.7">VTR CONSÓRCIOS</text>
+<text x="1008" y="1278" font-family="Helvetica,Arial,sans-serif" font-size="24" font-weight="bold" fill="#696960" opacity="0.7" text-anchor="end">1/6</text>
+</svg>
