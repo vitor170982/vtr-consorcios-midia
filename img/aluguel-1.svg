@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#0C2C27"/>
+<rect x="0" y="0" width="1080" height="14" fill="#C9A34C"/>
+<text x="80" y="330" font-family="Helvetica,Arial,sans-serif" font-size="34" font-weight="bold" fill="#C9A34C" letter-spacing="4">FAÇA ESSA CONTA</text>
+<text x="80" y="480" font-family="Helvetica,Arial,sans-serif" font-size="102" font-weight="bold" fill="#FFFFFF">Quanto você</text>
+<text x="80" y="598" font-family="Helvetica,Arial,sans-serif" font-size="102" font-weight="bold" fill="#FFFFFF">paga de</text>
+<text x="80" y="716" font-family="Helvetica,Arial,sans-serif" font-size="102" font-weight="bold" fill="#FFFFFF">aluguel por</text>
+<text x="80" y="834" font-family="Helvetica,Arial,sans-serif" font-size="102" font-weight="bold" fill="#FFFFFF">ano?</text>
+<rect x="80" y="962" width="230" height="9" fill="#C9A34C"/>
+<text x="80" y="1062" font-family="Helvetica,Arial,sans-serif" font-size="54" font-weight="bold" fill="#C9A34C">Não por mês. Por ano.</text>
+<text x="80" y="1590" font-family="Helvetica,Arial,sans-serif" font-size="26" font-weight="bold" fill="#969690" opacity="0.7">VTR CONSÓRCIOS</text>
+</svg>
