@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#0C2C27"/>
+<rect x="0" y="0" width="1080" height="14" fill="#C9A34C"/>
+<text x="80" y="320" font-family="Helvetica,Arial,sans-serif" font-size="34" font-weight="bold" fill="#C9A34C" letter-spacing="4">BLACK NOVEMBRO</text>
+<text x="80" y="430" font-family="Helvetica,Arial,sans-serif" font-size="70" font-weight="bold" fill="#FFFFFF">A parcela cai.</text>
+<text x="80" y="510" font-family="Helvetica,Arial,sans-serif" font-size="70" font-weight="bold" fill="#FFFFFF">Depois ela volta.</text>
+<rect x="80" y="560" width="200" height="8" fill="#C9A34C"/>
+<text x="80" y="650" font-family="Helvetica,Arial,sans-serif" font-size="36" fill="#D6D2C8">As duas colunas, sem esconder nada:</text>
+<text x="80" y="720" font-family="Helvetica,Arial,sans-serif" font-size="26" font-weight="bold" fill="#C9A34C">CRÉDITO</text>
+<text x="620" y="720" font-family="Helvetica,Arial,sans-serif" font-size="26" font-weight="bold" fill="#C9A34C" text-anchor="middle">BLACK</text>
+<text x="1000" y="720" font-family="Helvetica,Arial,sans-serif" font-size="26" font-weight="bold" fill="#C9A34C" text-anchor="end">DEPOIS</text>
+<line x1="80" y1="740" x2="1000" y2="740" stroke="#C9A34C" stroke-width="2" opacity="0.5"/>
+<text x="80" y="806" font-family="Helvetica,Arial,sans-serif" font-size="38" font-weight="bold" fill="#FFFFFF">R$ 200 mil</text>
+<text x="620" y="806" font-family="Helvetica,Arial,sans-serif" font-size="38" font-weight="bold" fill="#C9A34C" text-anchor="middle">583,64</text>
+<text x="1000" y="806" font-family="Helvetica,Arial,sans-serif" font-size="38" fill="#D6D2C8" text-anchor="end">1.183,60</text>
+<text x="80" y="882" font-family="Helvetica,Arial,sans-serif" font-size="38" font-weight="bold" fill="#FFFFFF">R$ 300 mil</text>
+<text x="620" y="882" font-family="Helvetica,Arial,sans-serif" font-size="38" font-weight="bold" fill="#C9A34C" text-anchor="middle">875,46</text>
+<text x="1000" y="882" font-family="Helvetica,Arial,sans-serif" font-size="38" fill="#D6D2C8" text-anchor="end">1.775,40</text>
+<text x="80" y="958" font-family="Helvetica,Arial,sans-serif" font-size="38" font-weight="bold" fill="#FFFFFF">R$ 500 mil</text>
+<text x="620" y="958" font-family="Helvetica,Arial,sans-serif" font-size="38" font-weight="bold" fill="#C9A34C" text-anchor="middle">1.459,09</text>
+<text x="1000" y="958" font-family="Helvetica,Arial,sans-serif" font-size="38" fill="#D6D2C8" text-anchor="end">2.959,00</text>
+<text x="80" y="1034" font-family="Helvetica,Arial,sans-serif" font-size="38" font-weight="bold" fill="#FFFFFF">R$ 750 mil</text>
+<text x="620" y="1034" font-family="Helvetica,Arial,sans-serif" font-size="38" font-weight="bold" fill="#C9A34C" text-anchor="middle">2.188,64</text>
+<text x="1000" y="1034" font-family="Helvetica,Arial,sans-serif" font-size="38" fill="#D6D2C8" text-anchor="end">4.438,50</text>
+<text x="80" y="1110" font-family="Helvetica,Arial,sans-serif" font-size="38" font-weight="bold" fill="#FFFFFF">R$ 1 milhão</text>
+<text x="620" y="1110" font-family="Helvetica,Arial,sans-serif" font-size="38" font-weight="bold" fill="#C9A34C" text-anchor="middle">2.918,18</text>
+<text x="1000" y="1110" font-family="Helvetica,Arial,sans-serif" font-size="38" fill="#D6D2C8" text-anchor="end">5.918,00</text>
+<text x="80" y="1190" font-family="Helvetica,Arial,sans-serif" font-size="34" font-weight="bold" fill="#F09B7A">A coluna 'depois' é o que você paga após a contemplação.</text>
+<text x="80" y="1592" font-family="Helvetica,Arial,sans-serif" font-size="26" font-weight="bold" fill="#969690" opacity="0.7">VTR CONSÓRCIOS</text>
+</svg>
