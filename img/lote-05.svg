@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#F6F3EC"/>
+<rect x="0" y="0" width="1080" height="14" fill="#C9A34C"/>
+<text x="80" y="330" font-family="Helvetica,Arial,sans-serif" font-size="34" font-weight="bold" fill="#AA5A16" letter-spacing="4">ANTES DE ASSINAR</text>
+<text x="80" y="440" font-family="Helvetica,Arial,sans-serif" font-size="70" font-weight="bold" fill="#1A2433">Pergunte estas 5.</text>
+<circle cx="96" cy="540" r="8" fill="#C9A34C"/>
+<text x="130" y="554" font-family="Helvetica,Arial,sans-serif" font-size="36" fill="#3A4553">Qual o percentual da taxa e sobre o que</text>
+<text x="130" y="600" font-family="Helvetica,Arial,sans-serif" font-size="36" fill="#3A4553">incide?</text>
+<circle cx="96" cy="666" r="8" fill="#C9A34C"/>
+<text x="130" y="680" font-family="Helvetica,Arial,sans-serif" font-size="36" fill="#3A4553">A taxa é reajustada? Com que índice?</text>
+<circle cx="96" cy="746" r="8" fill="#C9A34C"/>
+<text x="130" y="760" font-family="Helvetica,Arial,sans-serif" font-size="36" fill="#3A4553">Quais fundos e seguros são obrigatórios?</text>
+<circle cx="96" cy="826" r="8" fill="#C9A34C"/>
+<text x="130" y="840" font-family="Helvetica,Arial,sans-serif" font-size="36" fill="#3A4553">Qual o custo total até o fim do prazo?</text>
+<circle cx="96" cy="906" r="8" fill="#C9A34C"/>
+<text x="130" y="920" font-family="Helvetica,Arial,sans-serif" font-size="36" fill="#3A4553">Há multa se eu desistir ou antecipar?</text>
+<text x="80" y="1020" font-family="Helvetica,Arial,sans-serif" font-size="38" font-weight="bold" fill="#AA5A16">Se a resposta for 'depois você vê no</text>
+<text x="80" y="1068" font-family="Helvetica,Arial,sans-serif" font-size="38" font-weight="bold" fill="#AA5A16">contrato', não é resposta.</text>
+<text x="80" y="1592" font-family="Helvetica,Arial,sans-serif" font-size="26" font-weight="bold" fill="#696960" opacity="0.7">VTR CONSÓRCIOS</text>
+</svg>
