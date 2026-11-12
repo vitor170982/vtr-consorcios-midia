@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#0C2C27"/>
+<rect x="0" y="0" width="1080" height="14" fill="#C9A34C"/>
+<text x="80" y="330" font-family="Helvetica,Arial,sans-serif" font-size="34" font-weight="bold" fill="#C9A34C" letter-spacing="4">TRÊS TIPOS DE LANCE</text>
+<text x="80" y="440" font-family="Helvetica,Arial,sans-serif" font-size="68" font-weight="bold" fill="#FFFFFF">Nem todo lance</text>
+<text x="80" y="522" font-family="Helvetica,Arial,sans-serif" font-size="68" font-weight="bold" fill="#FFFFFF">é dinheiro.</text>
+<circle cx="96" cy="620" r="8" fill="#C9A34C"/>
+<text x="130" y="634" font-family="Helvetica,Arial,sans-serif" font-size="36" fill="#D6D2C8">Lance livre: você oferta o valor que</text>
+<text x="130" y="680" font-family="Helvetica,Arial,sans-serif" font-size="36" fill="#D6D2C8">quiser, do seu bolso.</text>
+<circle cx="96" cy="746" r="8" fill="#C9A34C"/>
+<text x="130" y="760" font-family="Helvetica,Arial,sans-serif" font-size="36" fill="#D6D2C8">Lance fixo: a administradora define o</text>
+<text x="130" y="806" font-family="Helvetica,Arial,sans-serif" font-size="36" fill="#D6D2C8">percentual do grupo.</text>
+<circle cx="96" cy="872" r="8" fill="#C9A34C"/>
+<text x="130" y="886" font-family="Helvetica,Arial,sans-serif" font-size="36" fill="#D6D2C8">Lance embutido: usa parte da própria</text>
+<text x="130" y="932" font-family="Helvetica,Arial,sans-serif" font-size="36" fill="#D6D2C8">carta de crédito — você recebe menos,</text>
+<text x="130" y="978" font-family="Helvetica,Arial,sans-serif" font-size="36" fill="#D6D2C8">mas não precisa ter o dinheiro agora.</text>
+<text x="80" y="1078" font-family="Helvetica,Arial,sans-serif" font-size="38" font-weight="bold" fill="#C9A34C">O embutido é o que mais surpreende</text>
+<text x="80" y="1126" font-family="Helvetica,Arial,sans-serif" font-size="38" font-weight="bold" fill="#C9A34C">quem tem pouco em caixa.</text>
+<text x="80" y="1592" font-family="Helvetica,Arial,sans-serif" font-size="26" font-weight="bold" fill="#969690" opacity="0.7">VTR CONSÓRCIOS</text>
+</svg>
