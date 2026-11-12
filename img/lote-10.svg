@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#0C2C27"/>
+<rect x="0" y="0" width="1080" height="14" fill="#C9A34C"/>
+<text x="80" y="330" font-family="Helvetica,Arial,sans-serif" font-size="34" font-weight="bold" fill="#C9A34C" letter-spacing="4">COTAS LIMITADAS</text>
+<text x="80" y="480" font-family="Helvetica,Arial,sans-serif" font-size="82" font-weight="bold" fill="#FFFFFF">A ação acaba</text>
+<text x="80" y="586" font-family="Helvetica,Arial,sans-serif" font-size="82" font-weight="bold" fill="#FFFFFF">quando as cotas</text>
+<text x="80" y="692" font-family="Helvetica,Arial,sans-serif" font-size="82" font-weight="bold" fill="#FFFFFF">acabarem.</text>
+<rect x="80" y="806" width="230" height="9" fill="#C9A34C"/>
+<text x="80" y="908" font-family="Helvetica,Arial,sans-serif" font-size="42" fill="#FFFFFF">Não tem data fixa de encerramento.</text>
+<text x="80" y="964" font-family="Helvetica,Arial,sans-serif" font-size="42" fill="#FFFFFF">Encerra quando o estoque dos</text>
+<text x="80" y="1020" font-family="Helvetica,Arial,sans-serif" font-size="42" fill="#FFFFFF">grupos participantes termina.</text>
+<text x="80" y="1102" font-family="Helvetica,Arial,sans-serif" font-size="42" fill="#FFFFFF">Quem entra depois, entra nas</text>
+<text x="80" y="1158" font-family="Helvetica,Arial,sans-serif" font-size="42" fill="#FFFFFF">condições normais.</text>
+<text x="80" y="1592" font-family="Helvetica,Arial,sans-serif" font-size="26" font-weight="bold" fill="#969690" opacity="0.7">VTR CONSÓRCIOS</text>
+</svg>
