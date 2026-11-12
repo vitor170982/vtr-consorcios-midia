@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+<rect width="1080" height="1920" fill="#F6F3EC"/>
+<rect x="0" y="0" width="1080" height="14" fill="#C9A34C"/>
+<text x="80" y="330" font-family="Helvetica,Arial,sans-serif" font-size="34" font-weight="bold" fill="#AA5A16" letter-spacing="4">JUROS X TAXA</text>
+<text x="80" y="440" font-family="Helvetica,Arial,sans-serif" font-size="46" fill="#3A3A34">Juro é aluguel do dinheiro.</text>
+<text x="80" y="500" font-family="Helvetica,Arial,sans-serif" font-size="46" fill="#3A3A34">Taxa é o preço do serviço.</text>
+<text x="80" y="620" font-family="Helvetica,Arial,sans-serif" font-size="38" fill="#3A3A34">O juro cresce sobre si mesmo todo mês.</text>
+<text x="80" y="670" font-family="Helvetica,Arial,sans-serif" font-size="38" fill="#3A3A34">A taxa é combinada uma vez e não</text>
+<text x="80" y="720" font-family="Helvetica,Arial,sans-serif" font-size="38" fill="#3A3A34">acumula.</text>
+<text x="80" y="840" font-family="Helvetica,Arial,sans-serif" font-size="40" font-weight="bold" fill="#0C2C27">É por isso que, no fim, um</text>
+<text x="80" y="890" font-family="Helvetica,Arial,sans-serif" font-size="40" font-weight="bold" fill="#0C2C27">financiamento pode custar quase</text>
+<text x="80" y="940" font-family="Helvetica,Arial,sans-serif" font-size="40" font-weight="bold" fill="#0C2C27">o dobro do que você pegou.</text>
+<text x="80" y="1592" font-family="Helvetica,Arial,sans-serif" font-size="26" font-weight="bold" fill="#696960" opacity="0.7">VTR CONSÓRCIOS</text>
+</svg>
